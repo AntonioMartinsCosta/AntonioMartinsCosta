@@ -1,7 +1,7 @@
 <!-- Saudação -->
 
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Antonio+Martins+😎" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F08080&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Antonio+Martins+😎💻" alt="Typing SVG" /></a>
 </div>
 
 #
@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://github.com/AntonioMartinsCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioMartinsCosta&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMartinsCosta&layout=compact&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioMartinsCosta&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMartinsCosta&layout=compact&theme=dracula"/>
 </div>
 
 #
