@@ -19,6 +19,7 @@
   <a href="https://github.com/AntonioMartinsCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioMartinsCosta&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMartinsCosta&layout=compact&theme=dracula"/>
+  </div>
 
 #
 
